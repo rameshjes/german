@@ -31,12 +31,15 @@
 ![Dativ Präposition](https://github.com/rameshjes/german/blob/master/images/dat_prap.png)
 
 ## Genetiv Präposition
-* Following are Genetiv präposition:
-```
-here write
-```
+![Genetiv Präposition](https://github.com/rameshjes/german/blob/master/images/genitiv_prap.png)
 
 ## Wechsel Präposition
+* If there is **movement in the sentence from one location to another**, these prepositions act as **Akkusativ**
+* No movement, then these prepositions act as **Dative**.
+
+
+![Wechsel Präposition](https://github.com/rameshjes/german/blob/master/images/wechsel_prap.png)
+
 
 ## Verben mit Festen (fixed) Präpositionen
 
@@ -50,7 +53,8 @@ here write
 
 **Wo = what**
 * We know that preposition always adds noun after that. This concept makes sure that is valid.
-Example : 
+Example :
+
 ```
 Write Following sentence in German: 
 
@@ -61,7 +65,6 @@ Was glaube Sie an?  (This would be wrong, because there is no noun after preposi
 So we will use Wo-worter
 
 Woran glaube Sie?  (An is combined with Was to make it as --> Woran)
-
 ```
 
 **Formula** `was + prep` = Wo-Wörter
@@ -238,7 +241,9 @@ Example: I don't speak while eating.
 ## wechsel Präposition vs Keine Präposition
 
 wechsel präposition --> Adds an object
+
 Keine präposition  --> No object
+
  	```
 	wechsel         vs    Keine
 
