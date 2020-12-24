@@ -6,32 +6,57 @@
 
 * Dative
 
+![German Dativ](https://github.com/rameshjes/german/blob/master/images/dativ.png)
+
+
+
+
 * Genitive
+
+![German Genitiv](https://github.com/rameshjes/german/blob/master/images/genitiv.png)
+
+---
 
 # Präpositionen
 
+![Prapositionen](https://github.com/rameshjes/german/blob/master/images/preposition.png)
 
 ## Akkusativ Präposition
 
 ## Dative Präposition
 
 ## Genetiv Präposition
+* Following are Genetiv präposition:
+```
+here write
+```
 
 ## Wechsel Präposition
 
 ## Verben mit Festen (fixed) Präpositionen
 
+---
+
 # Da-Wörter
 
+![Da-Worter](https://github.com/rameshjes/german/blob/master/images/da_worter.png)
+
 # Wo-Wörter
+
+---
 
 # Konnektoren
 
 ## Normal Konnektoren
 
+![Konnektoren](https://github.com/rameshjes/german/blob/master/images/konnektoren.png)
+
 ## Keine Konnektoren
 
 ## Zweiteilige Konnektoren
+
+![zweiteilige Konnektoren](https://github.com/rameshjes/german/blob/master/images/zweiteilige_konnektoren.png)
+
 
 # Präpositionen vs Konnektoren
 
@@ -46,9 +71,13 @@ General Rule:
 
 # Reflexiv
 
+![reflexiv](https://github.com/rameshjes/german/blob/master/images/reflexiv.png)
+
 ## Dative and Akkusative in Reflexiv
 
 # Possesiv Pronomen
+
+![Possesiv Pronomen](https://github.com/rameshjes/german/blob/master/images/possesiv_pronomen.png)
 
 # HilfsVerben (Helping Verbs)
 
@@ -154,16 +183,18 @@ Example: I learn German by reading novels
 	2. (while + 2nd Verb -> `beim` + verb (informal form) after capital
 ```
 Example: I don't speak while eating.
+```
+---
 
 # RelativSatz und RelativArtikel
 
-
+---
 # Comparativ & Superlativ
 
 
 ## Superlativ1 Vs Superlativ2
 
-
+---
 # General Topics
 
 ## wechsel Präposition vs Keine Präposition
