@@ -178,8 +178,11 @@ Sentence is Passiv when:
 **When we use this?**
 
 Answer: We use this when:
-	* `We use this rule, when we have more than one main verbs (Hauptverben) in the sentences.`
+
+	* We use this rule, `when we have more than one main verbs (Hauptverben) in the sentences.`
+	
 	* The second verb goes at the end with `zu` and in infinitiv form.
+	
 	* For trennbaresVerb, `zu` goes in between e.g `mitbring` -> `mitzubringen`
 	
 Example: 
