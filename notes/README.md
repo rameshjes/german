@@ -268,6 +268,20 @@ Examples:
 
 ## Wenn vs Als
 
+## Erst
+* Erst has two meanings i.e `first` and `only/just`
+
+```
+1. erst + noun --> first 
+
+Das ist meine erster Kurs in Deutschland (That is my first course in Germany)
+
+2. erst (kein noun) --> only/just
+
+Ich bin erst 15 jahre alt (I am just 15 years old)
+```
+
+
 ## etwa vs etwas
 
 * etwas + noun
