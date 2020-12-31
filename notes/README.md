@@ -268,6 +268,18 @@ Examples:
 
 ## Wenn vs Als
 
+## einige vs eigene
+
+```
+* einige --> some/few
+* eigene --> own
+
+Das ist mein eigenes Auto
+
+
+```
+
+
 ## Erst
 * Erst has two meanings i.e `first` and `only/just`
 
