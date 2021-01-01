@@ -118,9 +118,19 @@ General Rule:
 
 ## Model Verben
 
-Rule: 
+* Falls under category of Helping Verbs
+* Whenever there is model verb, mostly there is Haupt(main) verb present at the end of the sentence.
 
-1. `Modal Verb Past + HauptVerb Präsens`
+**Rules**:
+
+1. `Model Verb Präsens + HauptVerb in infinite form (am Ende)
+2. `Modal Verb Past + HauptVerb Präsens`
+
+
+![Model Verben](https://github.com/rameshjes/german/blob/master/images/model_verben.png)
+
+![List of Model Verbs](https://github.com/rameshjes/german/blob/master/images/model_verb.png)
+
 
 ### Lassen 
 It is used when:
