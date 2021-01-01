@@ -123,7 +123,7 @@ General Rule:
 
 **Rules**:
 
-1. `Model Verb Präsens + HauptVerb in infinite form (am Ende)
+1. `Model Verb Präsens + HauptVerb in infinite form (am Ende)`
 2. `Modal Verb Past + HauptVerb Präsens`
 
 
