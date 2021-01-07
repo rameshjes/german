@@ -1,3 +1,7 @@
+### Task 
+
+![ferienhaus](https://github.com/rameshjes/german/blob/master/images/ferienhaus.png)
+
 * Was Sie dort am liebsten machen würden.
     * Natürlich, ich werde dich bestimmt beitreten, weil ich den Bergen liebe und möchte mich entspannen. Am liebsten würde in der Bergen gehe ich sehr gern wandern. 
     Zusätzlich, ich würde auch die Frisches Lüft und die Sonne genießen.
@@ -22,7 +26,8 @@ Anrede = Salutation
 
 ---
 
-                                            Berlin, 01.01.2021
+                                          
+                                                                 Berlin, 01.01.2021
 Liebe Marianna, 
 
    (vielen Dank für die Einladung)/(Herzlichen Dank für deine Einladung). Das ist ja wirklich ein toller Vorschlag, den du mir da machst.
@@ -31,10 +36,10 @@ Liebe Marianna,
 
    Also, ich würde gerne meinen Freund Rajjat mitbringen. Er ist sehr sportlich und hat bestimmt große Lust mit uns zu wandern. Außerdem ist er sehr humorvoll und wir werden viel mit ihm lachen.
 
-    Jetzt hätte ich noch einige Fragen zum Ferienhaus. Wie viele Zimmer hat es und gibt es genung Betten für alle? oder soll ich eine Iso-Matte und einen Schlafsack mitbringen?
+  Jetzt hätte ich noch einige Fragen zum Ferienhaus. Wie viele Zimmer hat es und gibt es genung Betten für alle? oder soll ich eine Iso-Matte und einen Schlafsack mitbringen?
     Zudem würde ich gerne wissen, ob es in der Nähe einen Supermarkt gibt, wo wir einkaufen können. Oder ein Restaurant, so dass wir nicht immer kochen müssen.
 
-    Ich freue mich schon sehr auf die Tage im Ferienhaus und hoffe, dass wir gutes Wetter haben werden.
+   Ich freue mich schon sehr auf die Tage im Ferienhaus und hoffe, dass wir gutes Wetter haben werden.
 
 Bis bald und lieben Gruß
 Ramesh 
