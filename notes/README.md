@@ -225,7 +225,7 @@ Example:
 1. Second verb is present with **by** (by + 2nd Verb -> `indem` als Konnektor)
 Example: I learn German by reading novels 
 
-**How would be sentence structure?**
+**How would be sentence structured?**
 * Always new sentence starts with "indem" Konnektor (Nominativ & Verb am ende)
 * Tense of both the sentences should be same
 
