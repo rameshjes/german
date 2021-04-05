@@ -146,6 +146,8 @@ Examples:
 3. Ich muss meine Zahnschmerzen behandeln lassen
 ```
 # Adjektiv Endungen
+
+![Adjective_Endugen](https://github.com/rameshjes/german/blob/master/images/adj_endungen.png)
 ---
 # Aktiv vs Passiv
 ## Aktiv
