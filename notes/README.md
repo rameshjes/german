@@ -181,7 +181,7 @@ Example of **Rule 2** -> The packet will be delivered tomorrow by Rahul/Employee
 Sentence is Aktiv when: `Doer = Nominativ`
 
 Sentence is Passiv when: 
-1. Does is not there or 
+1. Doer is not there or 
 2. Doer is at the end with a preposition "by" 
 ---
 
