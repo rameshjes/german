@@ -181,7 +181,7 @@ Example of **Rule 2** -> The packet will be delivered tomorrow by Rahul/Employee
 Sentence is Aktiv when: `Doer = Nominativ`
 
 Sentence is Passiv when: 
-1. Does is not there or 
+1. Doer is not there or 
 2. Doer is at the end with a preposition "by" 
 ---
 
@@ -225,7 +225,9 @@ Example:
 **This rule applies when:**
 
 1. Second verb is present with **by** (by + 2nd Verb -> `indem` als Konnektor)
-Example: I learn German by reading novels 
+Example: 
+	* I learn German by reading novels --  Ich lerne Deutsch, indem ich Romane lese.
+	* I take break by going for the walk. -- Ich mache eine Pause, indem ich spazieren gehe.
 
 **How would be sentence structured?**
 * Always new sentence starts with "indem" Konnektor (Nominativ & Verb am ende)
@@ -238,7 +240,7 @@ Example: I learn German by reading novels
 	1. (while + 2nd Verb -> `beim` + verb als Nomen)
 	2. (while + 2nd Verb -> `beim` + verb (informal form) after capital
 ```
-Example: I don't speak while eating.
+Example: I don't speak while eating. -- Ich spreche nicht beim Fahren.
 ```
 ---
 
