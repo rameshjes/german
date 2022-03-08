@@ -6,6 +6,8 @@
 
 [Konnektoren](https://github.com/rameshjes/german/tree/master/notes/konnektoren)
 
+[Präpositionen](https://github.com/rameshjes/german/tree/master/notes/praposition)
+
 [Präpositionen vs Konnektoren](https://github.com/rameshjes/german/tree/master/notes/konnektoren)
 
 [HilfsVerben/ModelVerben](https://github.com/rameshjes/german/tree/master/notes/hilfsverben)
