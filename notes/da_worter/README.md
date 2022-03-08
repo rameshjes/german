@@ -1,24 +1,3 @@
-# Cases
-
-* Nominative
-
-* Akkusative
-
-* Dative
-
-![German Dativ](https://github.com/rameshjes/german/blob/master/images/dativ.png)
-
-
-
-
-* Genitive
-
-![German Genitiv](https://github.com/rameshjes/german/blob/master/images/genitiv.png)
-
----
-
-# Präpositionen
-
 # Da-Wörter (Da-Compounds)
 
 ![Da-Worter](https://github.com/rameshjes/german/blob/master/images/da_worter.png)
