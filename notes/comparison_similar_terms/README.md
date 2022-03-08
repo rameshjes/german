@@ -35,7 +35,6 @@ Examples:
 
 Das ist mein eigenes Auto
 
-
 ```
 
 
@@ -51,7 +50,6 @@ Das ist meine erster Kurs in Deutschland (That is my first course in Germany)
 
 Ich bin erst 15 jahre alt (I am just 15 years old)
 ```
-
 
 ## etwa vs etwas
 
