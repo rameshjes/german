@@ -1,20 +1,20 @@
 # Notes 
 
-![cases](https://github.com/rameshjes/german/tree/master/notes/cases)
+[cases](https://github.com/rameshjes/german/tree/master/notes/cases)
 
-![Da-Worter/Wo-Worter](https://github.com/rameshjes/german/tree/master/notes/da_worter)
+[Da-Worter/Wo-Worter](https://github.com/rameshjes/german/tree/master/notes/da_worter)
 
-![Konnektoren](https://github.com/rameshjes/german/tree/master/notes/konnektoren)
+[Konnektoren](https://github.com/rameshjes/german/tree/master/notes/konnektoren)
 
-![Präpositionen vs Konnektoren](https://github.com/rameshjes/german/tree/master/notes/konnektoren)
+[Präpositionen vs Konnektoren](https://github.com/rameshjes/german/tree/master/notes/konnektoren)
 
-![HilfsVerben/ModelVerben](https://github.com/rameshjes/german/tree/master/notes/hilfsverben)
+[HilfsVerben/ModelVerben](https://github.com/rameshjes/german/tree/master/notes/hilfsverben)
 
-![Zu + Infintiv](https://github.com/rameshjes/german/tree/master/notes/zu_infinitiv)
+[Zu + Infintiv](https://github.com/rameshjes/german/tree/master/notes/zu_infinitiv)
 
-![Konjunktiv II (K-II)](https://github.com/rameshjes/german/tree/master/notes/Konjunktiv_II)
+[Konjunktiv II (K-II)](https://github.com/rameshjes/german/tree/master/notes/Konjunktiv_II)
 
-![Comparison Similar terms](https://github.com/rameshjes/german/tree/master/notes/comparison_similar_terms)
+[Comparison Similar terms](https://github.com/rameshjes/german/tree/master/notes/comparison_similar_terms)
 
 * *  wechsel Präposition vs Keine Präposition
 * * Waren vs Hatten
@@ -23,9 +23,9 @@
 * * Erst
 * * etwa vs etwas
 
-![Verb, Verb Rule](https://github.com/rameshjes/german/tree/master/notes/mixed_rules)
+[Verb, Verb Rule](https://github.com/rameshjes/german/tree/master/notes/mixed_rules)
 
 -- 
 # B2
 
-![TeKaMoLo](https://github.com/rameshjes/german/tree/master/notes/TeKaMoLo)
+[TeKaMoLo](https://github.com/rameshjes/german/tree/master/notes/TeKaMoLo)
