@@ -1,6 +1,6 @@
-# Notes 
+# Topics 
 
-[cases](https://github.com/rameshjes/german/tree/master/notes/cases)
+[Cases](https://github.com/rameshjes/german/tree/master/notes/cases)
 
 [Da-Worter/Wo-Worter](https://github.com/rameshjes/german/tree/master/notes/da_worter)
 
@@ -23,8 +23,9 @@
 * * Erst
 * * etwa vs etwas
 
-[Verb, Verb Rule](https://github.com/rameshjes/german/tree/master/notes/mixed_rules)
+[Mixed Rules](https://github.com/rameshjes/german/tree/master/notes/mixed_rules)
 
+* * Verb, Verb Rule
 -- 
 # B2
 
